@@ -204,19 +204,6 @@ int main() {
 		Sleep(1000);
 		system("cls");
 	}
-	/*
-		setchar(0, 3);
-		setchar(12, 1);
-		setchar(24, 2);
-		setchar(36, 0);
-		setchar(48, 4);
-		setchar(60, 5);
-		setchar(72, 6);
-		setchar(84, 7);
-		setchar(96, 8);
-		setchar(108, 9);
-		printtext();
-	*/
 	return 0;
 }
 
